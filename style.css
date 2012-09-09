@@ -1,0 +1,17 @@
+/*
+Theme Name: meola-xsteadfastx 
+Description: xsteadfastx child theme for meola 
+Author: Marvin Steadfast
+Template: meola
+*/
+
+@import url("../meola/style.css");
+
+.entry-content blockquote p,
+#comments blockquote p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+	padding-left: 15px;
+	border-left: 3px solid #ccc;
+}
